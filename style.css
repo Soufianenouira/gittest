@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+img {
+    border-radius: 16px;
+}
